@@ -1,1 +1,3 @@
-# nguyen-quoc-dat
+B1
+*p3 = B, p3 = 0x5678
+*p3 = A, p3 = 0x1234
